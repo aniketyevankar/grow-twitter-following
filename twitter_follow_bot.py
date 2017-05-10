@@ -23,7 +23,7 @@ storage.
 
 from twitter import Twitter, OAuth, TwitterHTTPError
 import os
-from twitter_info import *
+from example_twitter_info import *
 
 # put the full path and file name of the file you want to store your "already followed"
 # list in
